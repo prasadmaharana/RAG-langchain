@@ -1,0 +1,6 @@
+__pycache__/
+.venv
+temp.pdf
+*.pyc
+.ipynb_checkpoints/
+docs/chroma/
